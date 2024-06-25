@@ -18,7 +18,9 @@
 원하는 중금속 정보 검색 - 해당 정보를 선택하여 정보를 출력할 수 있음
 스크룰뷰 사용 : 출력한 모든 결과물은 스크룰 뷰를 이용하여 전에 출력한 정보도 확인할 수 있음
 
-<img src = "https://github.com/suwho18/dabom_app/blob/main/%EC%95%B1%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.png"></img>
+<img src = "https://github.com/suwho18/airmetalapp/blob/master/%EC%B6%9C%EB%A0%A5%ED%99%94%EB%A9%B41.png"></img>
+<img src = "https://github.com/suwho18/airmetalapp/blob/master/%EC%B6%9C%EB%A0%A5%ED%99%94%EB%A9%B42.png"></img>
+<img src = "https://github.com/suwho18/airmetalapp/blob/master/%EC%B6%9C%EB%A0%A5%ED%99%94%EB%A9%B43.png"></img>
 
 기대 효과 : 대기 속 납과 칼슘의 양을 1시간 간격마다 정보를 확인할 수 있음
 
